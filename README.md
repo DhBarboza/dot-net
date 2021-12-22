@@ -1,2 +1,2 @@
-# dot-net
-Study and learning of the .NET development platform
+# .NET
+Study and learning of the .NET development cross-platform
