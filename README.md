@@ -13,5 +13,8 @@ Estudo e aprendizado da plataforma de desenvolvimento .NET
   - vscode-solution-explorer
   - .NET Core Test Explorer
 
+- Caso tenha dúvidas ou dificuldades sobre instalação:
+  - [dotnet-instalacao](https://balta.io/blog/dotnet-instalacao-configuracao-e-primeiros-passos)
+
 ### Comando via Terminal (CLI):
 - [ClI](/cli-comands.md)
