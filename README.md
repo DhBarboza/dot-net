@@ -18,3 +18,25 @@ Estudo e aprendizado da plataforma de desenvolvimento .NET
 
 ### Comando via Terminal (CLI):
 - [ClI](/cli-comands.md)
+
+### Tipos de projetos:
+- Class Library:
+  > O resultado final é uma DLL
+
+  > Não possui interface 
+
+- Console Application:
+  > Aplicação que roda no terminal
+
+  > Pode receber dados
+
+- Projetos Web (Backend && Frontend):
+  > ASP.NET MVC
+  
+  > ASP.NET WebAPI
+
+  > ASP.NET Web
+
+- Projetos Testes:
+  > Microsoft Tests
+

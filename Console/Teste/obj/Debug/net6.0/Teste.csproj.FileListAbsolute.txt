@@ -1,0 +1,15 @@
+C:\Projects\dot-net\Console\Teste\bin\Debug\net6.0\Teste.exe
+C:\Projects\dot-net\Console\Teste\bin\Debug\net6.0\Teste.deps.json
+C:\Projects\dot-net\Console\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+C:\Projects\dot-net\Console\Teste\bin\Debug\net6.0\Teste.dll
+C:\Projects\dot-net\Console\Teste\bin\Debug\net6.0\ref\Teste.dll
+C:\Projects\dot-net\Console\Teste\bin\Debug\net6.0\Teste.pdb
+C:\Projects\dot-net\Console\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+C:\Projects\dot-net\Console\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\dot-net\Console\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\Projects\dot-net\Console\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\Projects\dot-net\Console\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\Projects\dot-net\Console\Teste\obj\Debug\net6.0\Teste.dll
+C:\Projects\dot-net\Console\Teste\obj\Debug\net6.0\ref\Teste.dll
+C:\Projects\dot-net\Console\Teste\obj\Debug\net6.0\Teste.pdb
+C:\Projects\dot-net\Console\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
